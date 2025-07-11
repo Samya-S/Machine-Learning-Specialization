@@ -2,7 +2,8 @@
 
 This repository contains materials and lab assignments for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by [Andrew Ng](https://www.andrewng.org/), organized into three main courses:
 
-## Course 1: Supervised Machine Learning - Regression and Classification [Link](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+## Course 1: Supervised Machine Learning - Regression and Classification  
+**[Go to Course 1 on Coursera](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)**
 - **Description:** Introduction to supervised learning, including regression and classification techniques.
 - **Topics Covered:**
   - Python and Jupyter basics
@@ -12,7 +13,8 @@ This repository contains materials and lab assignments for the [Machine Learning
 - **Conversations with Andrew (Optional)**
   - [Andrew Ng and Fei-Fei Li on Human-Centered AI](https://youtu.be/8G1Afl-kAlI)
 
-## Course 2: Advanced Learning Algorithms [Link](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+## Course 2: Advanced Learning Algorithms  
+**[Go to Course 2 on Coursera](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)**
 - **Description:** Explores advanced machine learning algorithms and neural networks using TensorFlow and Keras.
 - **Topics Covered:**
   - Neural networks and deep learning
@@ -22,7 +24,8 @@ This repository contains materials and lab assignments for the [Machine Learning
 - **Conversations with Andrew (Optional)**
   - [Andrew Ng and Chris Manning on Natural Language Processing](https://youtu.be/uWWXLXBRf_U)
 
-## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning [Link](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning  
+**[Go to Course 3 on Coursera](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)**
 - **Description:** Focuses on unsupervised learning, recommender systems, and reinforcement learning.
 - **Topics Covered:**
   - K-means clustering and anomaly detection
