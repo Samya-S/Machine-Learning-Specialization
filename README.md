@@ -11,7 +11,7 @@ This repository contains materials and lab assignments for the [Machine Learning
   - Cost functions and gradient descent
   - Overfitting, regularization, and model evaluation
 - **Conversations with Andrew (Optional)**
-  - [Andrew Ng and Fei-Fei Li on Human-Centered AI](https://youtu.be/8G1Afl-kAlI)
+  - [Andrew Ng and Fei-Fei Li on Human-Centered AI](https://youtu.be/UNhC6Ox0T0o)
 
 ## Course 2: Advanced Learning Algorithms  
 **[Go to Course 2 on Coursera](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)**
@@ -22,7 +22,7 @@ This repository contains materials and lab assignments for the [Machine Learning
   - Model evaluation and selection
   - Decision trees and ensemble methods
 - **Conversations with Andrew (Optional)**
-  - [Andrew Ng and Chris Manning on Natural Language Processing](https://youtu.be/uWWXLXBRf_U)
+  - [Andrew Ng and Chris Manning on Natural Language Processing](https://youtu.be/6w0Po83ZmjA)
 
 ## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning  
 **[Go to Course 3 on Coursera](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)**
@@ -33,7 +33,7 @@ This repository contains materials and lab assignments for the [Machine Learning
   - Collaborative and content-based recommender systems
   - Reinforcement learning fundamentals
 - **Conversations with Andrew (Optional)**
-  - [Andrew Ng and Chelsea Finn on AI and Robotics](https://youtu.be/uSCf5G4fSdM)
+  - [Andrew Ng and Chelsea Finn on AI and Robotics](https://youtu.be/IT734HriiHQ)
 
 ---
 
